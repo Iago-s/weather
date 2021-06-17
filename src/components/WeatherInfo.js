@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
 
   textSecondary: {
     fontSize: 20,
-    fontWeight: 500,
+    fontWeight: '500',
     color: colors.SECONDARY_COLOR,
 
     marginTop: 10,
